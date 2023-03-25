@@ -1,1 +1,1 @@
-# Grocery-Planogram-Control-Dataset
+# Grocery Planogram Control Dataset
