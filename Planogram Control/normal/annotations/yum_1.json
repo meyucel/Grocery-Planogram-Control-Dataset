@@ -1,0 +1,353 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yum_1",
+      "points": [
+        [
+          1.5873015873015872,
+          0.9206349206349103
+        ],
+        [
+          116.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_2",
+      "points": [
+        [
+          111.9047619047619,
+          1.7142857142857224
+        ],
+        [
+          209.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_3",
+      "points": [
+        [
+          203.17460317460316,
+          2.507936507936506
+        ],
+        [
+          302.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_3",
+      "points": [
+        [
+          295.23809523809524,
+          0.9206349206349103
+        ],
+        [
+          389.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_4",
+      "points": [
+        [
+          381.74603174603175,
+          0.9206349206349103
+        ],
+        [
+          474.0,
+          276.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_4",
+      "points": [
+        [
+          469.8412698412698,
+          0.12698412698412653
+        ],
+        [
+          567.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_5",
+      "points": [
+        [
+          567.1328671328672,
+          22.685314685314694
+        ],
+        [
+          664.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_5",
+      "points": [
+        [
+          661.5384615384615,
+          28.279720279720294
+        ],
+        [
+          753.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_6",
+      "points": [
+        [
+          754.5454545454546,
+          27.5804195804196
+        ],
+        [
+          847.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_7",
+      "points": [
+        [
+          847.5524475524476,
+          39.46853146853147
+        ],
+        [
+          947.6013986013986,
+          277.6993006993007
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_8",
+      "points": [
+        [
+          946.1538461538462,
+          12.195804195804214
+        ],
+        [
+          1048.3986013986014,
+          272.50349650349654
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_8",
+      "points": [
+        [
+          1046.8531468531469,
+          16.3916083916084
+        ],
+        [
+          1155.0,
+          270.70629370629376
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_9",
+      "points": [
+        [
+          1158.0419580419582,
+          25.482517482517494
+        ],
+        [
+          1274.3006993006993,
+          268.6083916083916
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_9",
+      "points": [
+        [
+          1274.8251748251748,
+          26.88111888111888
+        ],
+        [
+          1396.0,
+          266.5104895104895
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_10",
+      "points": [
+        [
+          1387.4125874125875,
+          31.076923076923094
+        ],
+        [
+          1483.916083916084,
+          266.0419580419581
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_10",
+      "points": [
+        [
+          1487.4125874125875,
+          28.97902097902096
+        ],
+        [
+          1608.0,
+          268.60839160839157
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_10",
+      "points": [
+        [
+          1598.6013986013986,
+          31.076923076923094
+        ],
+        [
+          1712.5874125874127,
+          267.44055944055947
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_11",
+      "points": [
+        [
+          1695.8041958041958,
+          12.895104895104907
+        ],
+        [
+          1790.2727272727273,
+          266.4405594405594
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "yum_1.png",
+  "imageData": null,
+  "imageHeight": 278,
+  "imageWidth": 1793,
+  "expected_pla_n": {
+    "seq": [
+      "yum_1",
+      "yum_2",
+      "yum_3",
+      "yum_4",
+      "yum_5",
+      "yum_6",
+      "yum_7",
+      "yum_8",
+      "yum_9",
+      "yum_10",
+      "yum_11"
+    ],
+    "qt": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      3,
+      1
+    ]
+  },
+  "item_match": [
+    "yum_1 matched mt",
+    "yum_2 matched mt",
+    "yum_3 matched mt",
+    "yum_4 matched mt",
+    "yum_5 matched mt",
+    "yum_6 matched mt",
+    "yum_7 matched mt",
+    "yum_8 matched mt",
+    "yum_9 matched mt",
+    "yum_10 matched mt",
+    "yum_11 matched mt"
+  ],
+  "quantity_match": [
+    "yum_1 matched",
+    "yum_2 matched",
+    "yum_3 matched",
+    "yum_4 matched",
+    "yum_5 matched",
+    "yum_6 matched",
+    "yum_7 matched",
+    "yum_8 matched",
+    "yum_9 matched",
+    "yum_10 matched",
+    "yum_11 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

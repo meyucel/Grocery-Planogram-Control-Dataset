@@ -1,0 +1,170 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "cik_14",
+      "points": [
+        [
+          11.428571428571427,
+          72.85714285714266
+        ],
+        [
+          302,
+          347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cik_15",
+      "points": [
+        [
+          271.4285714285714,
+          70.0
+        ],
+        [
+          600,
+          347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cik_16",
+      "points": [
+        [
+          602.8571428571428,
+          67.14285714285711
+        ],
+        [
+          907,
+          347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cik_16",
+      "points": [
+        [
+          902.8571428571428,
+          70.0
+        ],
+        [
+          1199,
+          347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cik_17",
+      "points": [
+        [
+          1180.0,
+          61.42857142857133
+        ],
+        [
+          1476,
+          347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cik_18",
+      "points": [
+        [
+          1462.8571428571427,
+          52.85714285714266
+        ],
+        [
+          1757,
+          347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cik_18",
+      "points": [
+        [
+          1762.8571428571427,
+          58.57142857142844
+        ],
+        [
+          2054,
+          347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cik_19",
+      "points": [
+        [
+          2045.7142857142856,
+          61.42857142857133
+        ],
+        [
+          2337.142857142857,
+          344.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cik_21",
+      "points": [
+        [
+          2331.428571428571,
+          52.85714285714266
+        ],
+        [
+          2642,
+          346
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cik_20",
+      "points": [
+        [
+          2645.7142857142853,
+          61.42857142857133
+        ],
+        [
+          2945,
+          347
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2.png",
+  "imageData": null,
+  "imageHeight": 348,
+  "imageWidth": 2951
+}

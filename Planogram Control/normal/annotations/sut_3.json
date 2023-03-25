@@ -1,0 +1,253 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sut_8",
+      "points": [
+        [
+          5.0,
+          1.0
+        ],
+        [
+          109.0,
+          212.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_8",
+      "points": [
+        [
+          103.0,
+          1.0
+        ],
+        [
+          207.0,
+          212.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_8",
+      "points": [
+        [
+          200.0,
+          2.0
+        ],
+        [
+          304.0,
+          213.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_8",
+      "points": [
+        [
+          303.0,
+          2.0
+        ],
+        [
+          407.0,
+          213.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_8",
+      "points": [
+        [
+          399.0,
+          2.0
+        ],
+        [
+          503.0,
+          213.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_8",
+      "points": [
+        [
+          494.0,
+          1.0
+        ],
+        [
+          602.0,
+          212.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_8",
+      "points": [
+        [
+          592.0,
+          2.0
+        ],
+        [
+          700.0,
+          213.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          697.0,
+          3.0
+        ],
+        [
+          799.9999999999999,
+          201.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          797.0,
+          2.0
+        ],
+        [
+          901.7857142857142,
+          200.10714285714278
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          898.0,
+          0.0
+        ],
+        [
+          998.2142857142857,
+          195.6428571428571
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          993.0,
+          0.0
+        ],
+        [
+          1093.75,
+          196.53571428571422
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          1091.0,
+          4.0
+        ],
+        [
+          1199.1071428571427,
+          199.21428571428567
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          1195.6785714285716,
+          1.0
+        ],
+        [
+          1292.857142857143,
+          197.42857142857133
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          1299.7857142857144,
+          1.7857142857142208
+        ],
+        [
+          1392.8571428571427,
+          198.3214285714285
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "sut_3.png",
+  "imageData": null,
+  "imageHeight": 213,
+  "imageWidth": 1424,
+  "expected_pla_n": {
+    "seq": [
+      "sut_8",
+      "sut_10"
+    ],
+    "qt": [
+      7,
+      7
+    ]
+  },
+  "item_match": [
+    "sut_8 matched mt",
+    "sut_10 matched mt"
+  ],
+  "quantity_match": [
+    "sut_8 matched",
+    "sut_10 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

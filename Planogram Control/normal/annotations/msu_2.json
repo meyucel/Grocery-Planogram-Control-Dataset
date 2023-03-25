@@ -1,0 +1,217 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "msu_8",
+      "points": [
+        [
+          46.4,
+          10.199999999999989
+        ],
+        [
+          146.4,
+          354.20000000000005
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_9",
+      "points": [
+        [
+          151.2,
+          23.80000000000001
+        ],
+        [
+          248.0,
+          357.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_10",
+      "points": [
+        [
+          252.8,
+          25.400000000000006
+        ],
+        [
+          351.2,
+          355.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_10",
+      "points": [
+        [
+          356.8,
+          24.599999999999994
+        ],
+        [
+          450.4,
+          355.79999999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_10",
+      "points": [
+        [
+          456.8,
+          22.19999999999999
+        ],
+        [
+          557.6,
+          357.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_10",
+      "points": [
+        [
+          557.6,
+          23.0
+        ],
+        [
+          660.0,
+          354.20000000000005
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_11",
+      "points": [
+        [
+          719.2,
+          41.400000000000006
+        ],
+        [
+          836.0,
+          359.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_11",
+      "points": [
+        [
+          841.6,
+          30.19999999999999
+        ],
+        [
+          960.0,
+          361.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_12",
+      "points": [
+        [
+          949.6,
+          31.0
+        ],
+        [
+          1072.0,
+          359.79999999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_12",
+      "points": [
+        [
+          1051.2,
+          27.80000000000001
+        ],
+        [
+          1177.6,
+          359.79999999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_12",
+      "points": [
+        [
+          1152.0,
+          32.599999999999994
+        ],
+        [
+          1272.0,
+          361.4
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "msu_2.png",
+  "imageData": null,
+  "imageHeight": 370,
+  "imageWidth": 1276,
+  "expected_pla_n": {
+    "seq": [
+      "msu_8",
+      "msu_9",
+      "msu_10",
+      "msu_11",
+      "msu_12"
+    ],
+    "qt": [
+      1,
+      1,
+      4,
+      2,
+      3
+    ]
+  },
+  "item_match": [
+    "msu_8 matched mt",
+    "msu_9 matched mt",
+    "msu_10 matched mt",
+    "msu_11 matched mt",
+    "msu_12 matched mt"
+  ],
+  "quantity_match": [
+    "msu_8 matched",
+    "msu_9 matched",
+    "msu_10 matched",
+    "msu_11 matched",
+    "msu_12 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

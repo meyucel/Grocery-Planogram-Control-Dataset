@@ -1,0 +1,205 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gev_15",
+      "points": [
+        [
+          1.2345679012345678,
+          53.46913580246911
+        ],
+        [
+          332.09876543209873,
+          452.2345679012345
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_15",
+      "points": [
+        [
+          349.3827160493827,
+          69.51851851851848
+        ],
+        [
+          669.1358024691358,
+          453.46913580246905
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_15",
+      "points": [
+        [
+          665.4320987654321,
+          64.5802469135802
+        ],
+        [
+          1006.1728395061727,
+          444.82716049382714
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_15",
+      "points": [
+        [
+          1002.469135802469,
+          55.93827160493822
+        ],
+        [
+          1334.567901234568,
+          451.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_16",
+      "points": [
+        [
+          1323.4567901234568,
+          43.59259259259255
+        ],
+        [
+          1595.0617283950617,
+          430.01234567901224
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_16",
+      "points": [
+        [
+          1596.2962962962963,
+          43.59259259259255
+        ],
+        [
+          1860.4938271604938,
+          430.01234567901224
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_16",
+      "points": [
+        [
+          1869.1358024691356,
+          43.59259259259255
+        ],
+        [
+          2135.8024691358023,
+          427.5432098765432
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_16",
+      "points": [
+        [
+          2139.5061728395062,
+          42.358024691358025
+        ],
+        [
+          2408.641975308642,
+          426.30864197530855
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_16",
+      "points": [
+        [
+          2413.58024691358,
+          38.65432098765427
+        ],
+        [
+          2681.4814814814813,
+          428.7777777777777
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_16",
+      "points": [
+        [
+          2661.7283950617284,
+          41.12345679012344
+        ],
+        [
+          2928.395061728395,
+          425.074074074074
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_16",
+      "points": [
+        [
+          2939.506172839506,
+          37.419753086419746
+        ],
+        [
+          3209.0,
+          422.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "gev_6.png",
+  "imageData": null,
+  "imageHeight": 472,
+  "imageWidth": 3210,
+  "expected_pla_n": {
+    "seq": [
+      "gev_15",
+      "gev_16"
+    ],
+    "qt": [
+      4,
+      7
+    ]
+  },
+  "item_match": [
+    "gev_15 matched mt",
+    "gev_16 matched mt"
+  ],
+  "quantity_match": [
+    "gev_15 matched",
+    "gev_16 matched"
+  ],
+  "overall_quantitiy_match_ratio": 90
+}

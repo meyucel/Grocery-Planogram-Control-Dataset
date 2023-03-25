@@ -1,0 +1,93 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wck_1",
+      "points": [
+        [
+          0.0,
+          41.0
+        ],
+        [
+          419.9268292682923,
+          413.39024390243907
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_2",
+      "points": [
+        [
+          391.99999999999994,
+          31.536585365853625
+        ],
+        [
+          917.0,
+          422.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_2",
+      "points": [
+        [
+          908.5347091932457,
+          -0.6416510318949804
+        ],
+        [
+          1435.9737335834893,
+          420.3095684803002
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_2",
+      "points": [
+        [
+          1434.6829268292681,
+          10.804878048780438
+        ],
+        [
+          1929.3395872420263,
+          410.2120075046903
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "wc_1.png",
+  "imageData": null,
+  "imageHeight": 423,
+  "imageWidth": 1928,
+  "expected_pla_n": {
+    "seq": [
+      "wck_1",
+      "wck_2"
+    ],
+    "qt": [
+      1,
+      3
+    ]
+  },
+  "item_match": [
+    "wck_1 matched mt",
+    "wck_2 matched mt"
+  ],
+  "quantity_match": [
+    "wck_1 matched",
+    "wck_2 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

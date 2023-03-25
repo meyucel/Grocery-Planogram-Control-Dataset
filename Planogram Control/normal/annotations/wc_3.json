@@ -1,0 +1,113 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wck_6",
+      "points": [
+        [
+          6.594936708860759,
+          43.08860759493666
+        ],
+        [
+          439.50632911392404,
+          353.21518987341767
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_6",
+      "points": [
+        [
+          428.1139240506329,
+          43.08860759493666
+        ],
+        [
+          854.6962025316456,
+          359.5443037974683
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_7",
+      "points": [
+        [
+          853.4303797468355,
+          39.29113924050631
+        ],
+        [
+          1268.620253164557,
+          351.9493670886076
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_7",
+      "points": [
+        [
+          1259.759493670886,
+          40.55696202531641
+        ],
+        [
+          1673.6835443037974,
+          362.0759493670886
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_8",
+      "points": [
+        [
+          1673.6835443037974,
+          49.41772151898732
+        ],
+        [
+          2014.0,
+          354.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "wc_3.png",
+  "imageData": null,
+  "imageHeight": 374,
+  "imageWidth": 2015,
+  "expected_pla_n": {
+    "seq": [
+      "wck_6",
+      "wck_7",
+      "wck_8"
+    ],
+    "qt": [
+      2,
+      2,
+      1
+    ]
+  },
+  "item_match": [
+    "wck_6 matched mt",
+    "wck_7 matched mt",
+    "wck_8 matched mt"
+  ],
+  "quantity_match": [
+    "wck_6 matched",
+    "wck_7 matched",
+    "wck_8 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

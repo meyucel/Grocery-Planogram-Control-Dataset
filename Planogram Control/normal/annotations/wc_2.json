@@ -1,0 +1,113 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wck_3",
+      "points": [
+        [
+          2.162162162162163,
+          19.783783783783804
+        ],
+        [
+          452.1621621621622,
+          344.1081081081081
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_3",
+      "points": [
+        [
+          445.4054054054054,
+          23.83783783783781
+        ],
+        [
+          914.6486486486486,
+          361.48648648648646
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_4",
+      "points": [
+        [
+          912.9729729729729,
+          21.1351351351351
+        ],
+        [
+          1296.7567567567569,
+          314.37837837837844
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_4",
+      "points": [
+        [
+          1298.1081081081081,
+          23.837837837837867
+        ],
+        [
+          1692.7027027027027,
+          322.48648648648646
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_5",
+      "points": [
+        [
+          1698.1081081081081,
+          22.486486486486513
+        ],
+        [
+          2130.5405405405404,
+          340.05405405405406
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "wc_2.png",
+  "imageData": null,
+  "imageHeight": 376,
+  "imageWidth": 2135,
+  "expected_pla_n": {
+    "seq": [
+      "wck_3",
+      "wck_4",
+      "wck_5"
+    ],
+    "qt": [
+      2,
+      2,
+      1
+    ]
+  },
+  "item_match": [
+    "wck_3 matched mt",
+    "wck_4 matched mt",
+    "wck_5 matched nm"
+  ],
+  "quantity_match": [
+    "wck_3 matched",
+    "wck_4 matched",
+    "wck_5 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

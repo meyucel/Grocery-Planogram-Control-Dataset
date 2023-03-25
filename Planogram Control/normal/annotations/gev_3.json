@@ -1,0 +1,225 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gev_8",
+      "points": [
+        [
+          3.7804878048780495,
+          44.097560975609895
+        ],
+        [
+          424.5609756097561,
+          498.29268292682946
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_9",
+      "points": [
+        [
+          420.83333333333337,
+          1.5833333333333712
+        ],
+        [
+          769.6341463414634,
+          485.56097560975604
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_9",
+      "points": [
+        [
+          760.4166666666667,
+          3.6666666666667425
+        ],
+        [
+          1140.3658536585365,
+          490.43902439024373
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_9",
+      "points": [
+        [
+          1131.25,
+          1.5833333333333712
+        ],
+        [
+          1467.1951219512193,
+          485.56097560975604
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_6",
+      "points": [
+        [
+          1473.6842105263156,
+          2.4035087719297508
+        ],
+        [
+          1796.4634146341461,
+          478.2439024390244
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_10",
+      "points": [
+        [
+          1794.0,
+          0.0
+        ],
+        [
+          2147.682926829268,
+          500.19512195121933
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_11",
+      "points": [
+        [
+          2147.142857142857,
+          7.857142857142662
+        ],
+        [
+          2484.2682926829266,
+          512.3902439024389
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_11",
+      "points": [
+        [
+          2487.767857142857,
+          7.232142857142662
+        ],
+        [
+          2833.048780487805,
+          500.19512195121933
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_12",
+      "points": [
+        [
+          2833.0,
+          0.0
+        ],
+        [
+          3186.7073170731705,
+          512.3902439024389
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_13",
+      "points": [
+        [
+          3198.2456140350873,
+          2.4035087719297508
+        ],
+        [
+          3484.2682926829266,
+          514.8292682926829
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "gev_13",
+      "points": [
+        [
+          3482.456140350877,
+          0.6491228070175339
+        ],
+        [
+          3789.1463414634145,
+          514.8292682926829
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "gev_3.png",
+  "imageData": null,
+  "imageHeight": 531,
+  "imageWidth": 3800,
+  "expected_pla_n": {
+    "seq": [
+      "gev_8",
+      "gev_9",
+      "gev_6",
+      "gev_10",
+      "gev_11",
+      "gev_12",
+      "gev_13"
+    ],
+    "qt": [
+      1,
+      3,
+      1,
+      1,
+      2,
+      1,
+      2
+    ]
+  },
+  "item_match": [
+    "gev_8 matched mt",
+    "gev_9 matched mt",
+    "gev_6 matched mt",
+    "gev_10 matched mt",
+    "gev_11 matched mt",
+    "gev_12 matched mt",
+    "gev_13 matched mt"
+  ],
+  "quantity_match": [
+    "gev_8 matched",
+    "gev_9 matched",
+    "gev_6 matched",
+    "gev_10 matched",
+    "gev_11 matched",
+    "gev_12 matched",
+    "gev_13 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

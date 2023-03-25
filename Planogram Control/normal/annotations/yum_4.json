@@ -1,0 +1,121 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yum_30",
+      "points": [
+        [
+          3.921052631578947,
+          11.26315789473685
+        ],
+        [
+          216.42105263157893,
+          383.63157894736844
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_31",
+      "points": [
+        [
+          273.6578947368421,
+          21.78947368421052
+        ],
+        [
+          473.6578947368421,
+          371.13157894736844
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_32",
+      "points": [
+        [
+          478.92105263157896,
+          33.63157894736841
+        ],
+        [
+          681.5526315789474,
+          372.4473684210526
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_33",
+      "points": [
+        [
+          676.9473684210526,
+          33.63157894736841
+        ],
+        [
+          868.3947368421052,
+          369.8157894736842
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_34",
+      "points": [
+        [
+          855.8947368421052,
+          15.21052631578948
+        ],
+        [
+          1039.4473684210527,
+          372.4473684210526
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "yum_4.png",
+  "imageData": null,
+  "imageHeight": 397,
+  "imageWidth": 1044,
+  "expected_pla_n": {
+    "seq": [
+      "yum_30",
+      "yum_31",
+      "yum_32",
+      "yum_33",
+      "yum_34"
+    ],
+    "qt": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "item_match": [
+    "yum_30 matched mt",
+    "yum_31 matched mt",
+    "yum_32 matched mt",
+    "yum_33 matched mt",
+    "yum_34 matched mt"
+  ],
+  "quantity_match": [
+    "yum_30 matched",
+    "yum_31 matched",
+    "yum_32 matched",
+    "yum_33 matched",
+    "yum_34 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

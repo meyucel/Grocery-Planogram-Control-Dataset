@@ -1,0 +1,137 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "det_32",
+      "points": [
+        [
+          12.793103448275863,
+          10.379310344827616
+        ],
+        [
+          262.7931034482759,
+          362.1034482758621
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "det_46",
+      "points": [
+        [
+          266.2413793103448,
+          0.034482758620697496
+        ],
+        [
+          495.55172413793105,
+          334.51724137931035
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "det_36",
+      "points": [
+        [
+          488.65517241379314,
+          0.8965517241379075
+        ],
+        [
+          733.4827586206898,
+          337.1034482758621
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "det_33",
+      "points": [
+        [
+          712.7931034482759,
+          0.8965517241379359
+        ],
+        [
+          948.1379310344828,
+          328.48275862068965
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "det_33",
+      "points": [
+        [
+          935.2068965517242,
+          -1.4137931034482563
+        ],
+        [
+          1167.9655172413793,
+          326.1724137931035
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "det_35",
+      "points": [
+        [
+          1151.0,
+          0.0
+        ],
+        [
+          1357.6206896551726,
+          330.2068965517242
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "det_4.png",
+  "imageData": null,
+  "imageHeight": 369,
+  "imageWidth": 1373,
+  "expected_pla_n": {
+    "seq": [
+      "det_32",
+      "det_46",
+      "det_36",
+      "det_33",
+      "det_35"
+    ],
+    "qt": [
+      1,
+      1,
+      1,
+      2,
+      1
+    ]
+  },
+  "item_match": [
+    "det_32 matched mt",
+    "det_46 matched mt",
+    "det_36 matched mt",
+    "det_33 matched mt",
+    "det_35 matched mt"
+  ],
+  "quantity_match": [
+    "det_32 matched mt",
+    "det_46 matched mt",
+    "det_36 matched mt",
+    "det_33 matched mt",
+    "det_35 matched mt"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

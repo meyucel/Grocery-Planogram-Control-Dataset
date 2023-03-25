@@ -1,0 +1,225 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "msu_13",
+      "points": [
+        [
+          2.8776978417266186,
+          1.280575539568332
+        ],
+        [
+          78.1418439716312,
+          253.02836879432624
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_13",
+      "points": [
+        [
+          78.41726618705034,
+          -0.15827338129494706
+        ],
+        [
+          183.10638297872342,
+          263.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_13",
+      "points": [
+        [
+          176.25899280575538,
+          0.8776978417265866
+        ],
+        [
+          278.1418439716312,
+          257.9929078014185
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_13",
+      "points": [
+        [
+          271.94244604316543,
+          -1.2877697841726956
+        ],
+        [
+          364.6666666666667,
+          252.31914893617022
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_14",
+      "points": [
+        [
+          369.0647482014388,
+          1.280575539568332
+        ],
+        [
+          466.0851063829787,
+          257.9929078014185
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_14",
+      "points": [
+        [
+          467.62589928057554,
+          2.719424460431668
+        ],
+        [
+          559.7021276595744,
+          251.6099290780142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_15",
+      "points": [
+        [
+          558.9928057553956,
+          0.5611510791366641
+        ],
+        [
+          651.9007092198582,
+          253.73758865248232
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_15",
+      "points": [
+        [
+          648.2014388489207,
+          -0.5971223021583114
+        ],
+        [
+          741.9716312056738,
+          250.9007092198582
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_15",
+      "points": [
+        [
+          740.2877697841725,
+          -0.5971223021583114
+        ],
+        [
+          830.6241134751773,
+          249.48226950354615
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_15",
+      "points": [
+        [
+          834.5323741007193,
+          -1.3525179856115415
+        ],
+        [
+          930.6241134751774,
+          254.44680851063833
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_15",
+      "points": [
+        [
+          922.3021582733811,
+          -1.7913669064748774
+        ],
+        [
+          1015.0212765957448,
+          253.02836879432624
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "msu_15",
+      "points": [
+        [
+          1013.8417266187053,
+          -1.1582733812949755
+        ],
+        [
+          1112.8936170212767,
+          253.73758865248232
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "msu_3.png",
+  "imageData": null,
+  "imageHeight": 279,
+  "imageWidth": 1127,
+  "expected_pla_n": {
+    "seq": [
+      "msu_13",
+      "msu_14",
+      "msu_15"
+    ],
+    "qt": [
+      4,
+      2,
+      6
+    ]
+  },
+  "item_match": [
+    "msu_13 matched mt",
+    "msu_14 matched mt",
+    "msu_15 matched mt"
+  ],
+  "quantity_match": [
+    "msu_13 matched",
+    "msu_14 matched",
+    "msu_15 matched"
+  ],
+  "overall_quantitiy_match_ratio": 75
+}

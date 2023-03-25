@@ -1,0 +1,293 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yum_1",
+      "points": [
+        [
+          3.478260869565217,
+          1.9999999999999432
+        ],
+        [
+          113.0,
+          255.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_24",
+      "points": [
+        [
+          109.56521739130433,
+          2.869565217391255
+        ],
+        [
+          230.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_24",
+      "points": [
+        [
+          226.0869565217391,
+          2.869565217391255
+        ],
+        [
+          343.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_25",
+      "points": [
+        [
+          337.39130434782606,
+          2.869565217391255
+        ],
+        [
+          458.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_25",
+      "points": [
+        [
+          451.3043478260869,
+          2.869565217391255
+        ],
+        [
+          573.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_26",
+      "points": [
+        [
+          565.2173913043478,
+          1.9999999999999432
+        ],
+        [
+          678.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_26",
+      "points": [
+        [
+          675.6521739130434,
+          1.1304347826086882
+        ],
+        [
+          798.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_26",
+      "points": [
+        [
+          791.3043478260869,
+          0.2608695652173765
+        ],
+        [
+          906.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_27",
+      "points": [
+        [
+          908.0,
+          15.0
+        ],
+        [
+          1002.0,
+          266.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_27",
+      "points": [
+        [
+          1007.0,
+          21.0
+        ],
+        [
+          1112.0,
+          269.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_28",
+      "points": [
+        [
+          1109.0,
+          14.0
+        ],
+        [
+          1206.0,
+          264.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_28",
+      "points": [
+        [
+          1208.0,
+          11.0
+        ],
+        [
+          1307.0,
+          265.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_29",
+      "points": [
+        [
+          1304.0,
+          17.0
+        ],
+        [
+          1411.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_21",
+      "points": [
+        [
+          1400.391304347826,
+          11.130434782608688
+        ],
+        [
+          1486.0,
+          258.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yum_21",
+      "points": [
+        [
+          1488.0,
+          14.0
+        ],
+        [
+          1586.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "yum_3.png",
+  "imageData": null,
+  "imageHeight": 269,
+  "imageWidth": 1590,
+  "expected_pla_n": {
+    "seq": [
+      "yum_1",
+      "yum_24",
+      "yum_25",
+      "yum_26",
+      "yum_27",
+      "yum_28",
+      "yum_29",
+      "yum_21"
+    ],
+    "qt": [
+      1,
+      2,
+      2,
+      3,
+      2,
+      2,
+      1,
+      2
+    ]
+  },
+  "item_match": [
+    "yum_1 matched mt",
+    "yum_24 matched mt",
+    "yum_25 matched mt",
+    "yum_26 matched mt",
+    "yum_27 matched mt",
+    "yum_28 matched mt",
+    "yum_29 matched mt",
+    "yum_21 matched mt"
+  ],
+  "quantity_match": [
+    "yum_1 matched",
+    "yum_24 matched",
+    "yum_25 matched",
+    "yum_26 matched",
+    "yum_27 matched",
+    "yum_28 matched",
+    "yum_29 matched",
+    "yum_21 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

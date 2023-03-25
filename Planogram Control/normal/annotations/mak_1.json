@@ -1,0 +1,433 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mak_1",
+      "points": [
+        [
+          20.398009950248753,
+          5.860696517412919
+        ],
+        [
+          163.681592039801,
+          214.8159203980099
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_1",
+      "points": [
+        [
+          156.7293403114298,
+          0.45234864637848204
+        ],
+        [
+          328.8557213930348,
+          220.2885572139303
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_2",
+      "points": [
+        [
+          324.8756218905472,
+          7.353233830845767
+        ],
+        [
+          476.1194029850746,
+          215.31343283582083
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_2",
+      "points": [
+        [
+          461.2327970536926,
+          9.382503069070196
+        ],
+        [
+          621.3930348258706,
+          211.83084577114425
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_3",
+      "points": [
+        [
+          617.3547845189637,
+          3.566582671060303
+        ],
+        [
+          783.0845771144278,
+          204.36815920398004
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_4",
+      "points": [
+        [
+          789.6103896103896,
+          0.10389610389609061
+        ],
+        [
+          932.8358208955223,
+          197.90049751243777
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_4",
+      "points": [
+        [
+          928.5714285714286,
+          0.10389610389609061
+        ],
+        [
+          1083.5820895522386,
+          204.36815920398004
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_5",
+      "points": [
+        [
+          1080.5194805194806,
+          0.10389610389609061
+        ],
+        [
+          1232.3383084577113,
+          205.36318407960198
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_6",
+      "points": [
+        [
+          1231.168831168831,
+          0.10389610389609061
+        ],
+        [
+          1386.5671641791043,
+          207.35323383084574
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_7",
+      "points": [
+        [
+          1385.7142857142858,
+          1.4025974025973937
+        ],
+        [
+          1539.8009950248754,
+          213.820895522388
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_8",
+      "points": [
+        [
+          1541.2935323383083,
+          24.766169154228834
+        ],
+        [
+          1675.1243781094524,
+          207.3532338308457
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_8",
+      "points": [
+        [
+          1680.5970149253728,
+          31.233830845771138
+        ],
+        [
+          1824.378109452736,
+          199.89054726368158
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_9",
+      "points": [
+        [
+          1826.3681592039798,
+          6.358208955223887
+        ],
+        [
+          1970.646766169154,
+          207.85074626865668
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_9",
+      "points": [
+        [
+          1970.646766169154,
+          8.845771144278586
+        ],
+        [
+          2122.8855721393033,
+          208.84577114427856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_9",
+      "points": [
+        [
+          2118.181818181818,
+          1.4025974025973937
+        ],
+        [
+          2255.7213930348257,
+          195.910447761194
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_10",
+      "points": [
+        [
+          2245.4545454545455,
+          5.298701298701303
+        ],
+        [
+          2385.0746268656712,
+          204.36815920398004
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_11",
+      "points": [
+        [
+          2387.0129870129867,
+          4.0
+        ],
+        [
+          2530.8457711442784,
+          209.84079601990044
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_12",
+      "points": [
+        [
+          2528.5714285714284,
+          2.701298701298697
+        ],
+        [
+          2652.238805970149,
+          214.8159203980099
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_13",
+      "points": [
+        [
+          2653.246753246753,
+          5.298701298701303
+        ],
+        [
+          2790.049751243781,
+          207.85074626865668
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_13",
+      "points": [
+        [
+          2790.909090909091,
+          2.701298701298697
+        ],
+        [
+          2925.373134328358,
+          213.32338308457707
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_14",
+      "points": [
+        [
+          2929.87012987013,
+          4.0
+        ],
+        [
+          3036.318407960199,
+          199.89054726368158
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mak_15",
+      "points": [
+        [
+          3037.6623376623374,
+          5.298701298701303
+        ],
+        [
+          3155.7213930348257,
+          188.4477611940298
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "mak_1.png",
+  "imageData": null,
+  "imageHeight": 228,
+  "imageWidth": 3194,
+  "expected_pla_n": {
+    "seq": [
+      "mak_1",
+      "mak_2",
+      "mak_3",
+      "mak_4",
+      "mak_5",
+      "mak_6",
+      "mak_7",
+      "mak_8",
+      "mak_9",
+      "mak_10",
+      "mak_11",
+      "mak_12",
+      "mak_13",
+      "mak_14",
+      "mak_15"
+    ],
+    "qt": [
+      2,
+      2,
+      1,
+      2,
+      1,
+      1,
+      1,
+      2,
+      3,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1
+    ]
+  },
+  "item_match": [
+    "mak_1 matched mt",
+    "mak_2 matched mt",
+    "mak_3 matched mt",
+    "mak_4 matched mt",
+    "mak_5 matched mt",
+    "mak_6 matched mt",
+    "mak_7 matched mt",
+    "mak_8 matched mt",
+    "mak_9 matched mt",
+    "mak_10 matched mt",
+    "mak_11 matched mt",
+    "mak_12 matched mt",
+    "mak_13 matched mt",
+    "mak_14 matched mt",
+    "mak_15 matched mt"
+  ],
+  "quantity_match": [
+    "mak_1 matched",
+    "mak_2 matched",
+    "mak_3 matched",
+    "mak_4 matched",
+    "mak_5 matched",
+    "mak_6 matched",
+    "mak_7 matched",
+    "mak_8 matched",
+    "mak_9 matched",
+    "mak_10 matched",
+    "mak_11 matched",
+    "mak_12 matched",
+    "mak_13 matched",
+    "mak_14 matched",
+    "mak_15 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}

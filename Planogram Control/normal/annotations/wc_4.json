@@ -1,0 +1,129 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "wck_8",
+      "points": [
+        [
+          5.0,
+          44.22222222222223
+        ],
+        [
+          273.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_8",
+      "points": [
+        [
+          320.55555555555554,
+          85.33333333333331
+        ],
+        [
+          485.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_9",
+      "points": [
+        [
+          469.44444444444446,
+          47.55555555555554
+        ],
+        [
+          714.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_9",
+      "points": [
+        [
+          706.1111111111111,
+          66.5555555555556
+        ],
+        [
+          937.0,
+          417.33333333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_6",
+      "points": [
+        [
+          936.1111111111111,
+          69.77777777777777
+        ],
+        [
+          1363.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "wck_6",
+      "points": [
+        [
+          1366.111111111111,
+          95.33333333333331
+        ],
+        [
+          1758.0,
+          415.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "wc_4.png",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 1761,
+  "expected_pla_n": {
+    "seq": [
+      "wck_8",
+      "wck_9",
+      "wck_6"
+    ],
+    "qt": [
+      2,
+      2,
+      2
+    ]
+  },
+  "item_match": [
+    "wck_8 matched mt",
+    "wck_9 matched mt",
+    "wck_6 matched mt"
+  ],
+  "quantity_match": [
+    "1 wck_8 missing",
+    "wck_9 matched",
+    "wck_6 matched"
+  ],
+  "overall_quantitiy_match_ratio": 83
+}

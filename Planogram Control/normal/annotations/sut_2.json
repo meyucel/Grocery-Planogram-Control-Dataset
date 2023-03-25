@@ -1,0 +1,237 @@
+{
+  "version": "4.6.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "sut_9",
+      "points": [
+        [
+          0.0,
+          18.0
+        ],
+        [
+          200.0,
+          226.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_9",
+      "points": [
+        [
+          202.7378640776699,
+          13.93203883495147
+        ],
+        [
+          391.0873786407767,
+          215.87378640776694
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_9",
+      "points": [
+        [
+          387.20388349514565,
+          15.873786407767
+        ],
+        [
+          586.2330097087379,
+          214.90291262135918
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          586.4285714285713,
+          1.5714285714285552
+        ],
+        [
+          685.2621359223301,
+          211.01941747572812
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          686.3309352517985,
+          7.532374100719409
+        ],
+        [
+          782.3495145631068,
+          211.99029126213588
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          783.3203883495146,
+          11.99029126213594
+        ],
+        [
+          884.2912621359224,
+          214.90291262135918
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          882.3495145631068,
+          10.048543689320354
+        ],
+        [
+          976.5242718446601,
+          212.96116504854365
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          974.3935309973044,
+          6.589092717138158
+        ],
+        [
+          1071.6699029126214,
+          211.99029126213588
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          1066.8155339805826,
+          11.019417475728119
+        ],
+        [
+          1170.6990291262136,
+          213.9320388349514
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          1161.9611650485438,
+          13.93203883495147
+        ],
+        [
+          1266.8155339805826,
+          214.90291262135918
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          1260.4316546762589,
+          11.129496402877663
+        ],
+        [
+          1364.028776978417,
+          217.60431654676256
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          1358.9928057553955,
+          9.690647482014356
+        ],
+        [
+          1456.115107913669,
+          216.16546762589923
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sut_10",
+      "points": [
+        [
+          1454.6762589928055,
+          8.971223021582716
+        ],
+        [
+          1534.0,
+          219.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "sut_2.png",
+  "imageData": null,
+  "imageHeight": 227,
+  "imageWidth": 1535,
+  "expected_pla_n": {
+    "seq": [
+      "sut_9",
+      "sut_10"
+    ],
+    "qt": [
+      3,
+      10
+    ]
+  },
+  "item_match": [
+    "sut_9 matched mt",
+    "sut_10 matched mt"
+  ],
+  "quantity_match": [
+    "sut_9 matched",
+    "sut_10 matched"
+  ],
+  "overall_quantitiy_match_ratio": 100
+}
